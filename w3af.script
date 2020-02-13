@@ -1,0 +1,25 @@
+# -----------------------------------------------------------------------------------------------------------
+#                                              W3AF AUDIT SCRIPT FOR WEB APPLICATION
+# -----------------------------------------------------------------------------------------------------------
+# Simple fast_scan usage
+
+profiles
+list
+
+use fast_scan
+
+back
+
+plugins
+  audit
+  crawl
+back
+
+#Set target informations, do a cleanup and run the scan
+target
+  set target http://localhost:9999
+  set target_framework php
+back
+
+start
+exit
