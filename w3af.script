@@ -17,7 +17,7 @@ back
 
 #Set target informations, do a cleanup and run the scan
 target
-  set target http://10.4.9.154:9999
+  set target http://10.4.9.46:9999
   set target_framework php
 back
 
