@@ -1,0 +1,11 @@
+# comment
+# ubuntu
+debian:latest
+# registry:5000/busybox
+# docker.io/alpine:latest
+alpine:3.8.5
+# docker.io/busybox
+# anchore/anchore-engine:latest
+# https://docker.io/anchore/anchore-engine:dev
+# http://whereever.what:3456/dkfsd:test
+# 236666011822.dkr.ecr.us-gov-east-1.amazonaws.com/debian:latest
