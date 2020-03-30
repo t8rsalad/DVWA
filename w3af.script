@@ -17,7 +17,7 @@ back
 
 #Set target informations, do a cleanup and run the scan
 target
-  set target http://192.168.200.114:9999
+  set target http://dvwa.taskmaster.ninefx.com
   set target_framework php
 back
 
