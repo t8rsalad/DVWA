@@ -1,5 +1,7 @@
 # comment
 # ubuntu
+busybox:latest
+debian:10.3
 debian:latest
 # registry:5000/busybox
 # docker.io/alpine:latest
